@@ -1,0 +1,14 @@
+ 8 commits
+ 1 branch
+ 0 releases
+ 1 contributor
+ HTML 100.0%
+ @ZannaTarlecka
+ZannaTarlecka Merge branch 'master' of https://github.com/ZannaTarlecka/st170414
+Latest commit 2e404bb  2 days ago
+Jauns_falis.txt	Create Jauns_falis.txt	14 days ago
+README.md	Initial commit	14 days ago
+cita_funkcija.html	New file	2 days ago
+ README.md
+st170414
+Study remote
